@@ -1,12 +1,12 @@
-import org.junit.Test;
+ï»¿import org.junit.Test;
 
 public class Main {
 
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-	System.out.println("³ÂÂÉÂÉ");
-	System.out.println("³ÂÂÉÂÉ");
+	System.out.println("é™ˆå¾‹å¾‹");
+	System.out.println("é™ˆå¾‹å¾‹");
     }
 
 }
