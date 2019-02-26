@@ -7,6 +7,7 @@ public class Main {
         System.out.println("HelloWorld!");
 	System.out.println("陈律律");
 	System.out.println("陈律律");
+	System.out.println("陈律律");
     }
 
 }
